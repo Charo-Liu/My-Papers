@@ -1,6 +1,6 @@
 # What impact did China's value added tax reform in 2019 have on the profitability of listed companies
 
-- Please check the [pdf file](https://github.com/Charo-Liu/What-impact-did-China-s-value-added-tax-reform-in-2019-have-on-the-profitability-of-listed-companies/blob/main/What_impact_did_China_s_value_added_tax_reform_in_2019_have_on_the_profitability_of_Chinese_listed_companies_.pdf) for the full text
+- Please check the [***pdf file***](https://github.com/Charo-Liu/My-Papers/blob/main/What_impact_did_China_s_value_added_tax_reform_in_2019_have_on_the_profitability_of_Chinese_listed_companies_.pdf) for the full text
 
 ## Authors
 - Chang Liu <changcharo@163.sufe.edu.cn>
